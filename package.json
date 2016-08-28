@@ -1,0 +1,19 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "Introduct to react JS",
+  "main": "git repository",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactJS",
+    "express",
+    "node"
+  ],
+  "author": "Harpreet Kaur",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
